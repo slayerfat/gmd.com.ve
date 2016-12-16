@@ -1,0 +1,28 @@
+{
+  "name": "gmd",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.1.1",
+    "laravel-elixir": "^6.0.0-15",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "respond.js": "^1.4.2",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayerfat/gmd.com.ve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slayerfat/gmd.com.ve/issues"
+  },
+  "homepage": "https://github.com/slayerfat/gmd.com.ve#readme",
+  "private": true
+}

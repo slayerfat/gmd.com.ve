@@ -4,12 +4,13 @@ Homestead.json
 Homestead.yaml
 .env
 
-/public/images/
-/public/js/
-/public/css/
 /public/fonts/
+
 /database/database.sqlite
 
 /phpstorm.meta.php
 /lumen_ide_helper.php
+
 /composer.lock
+
+/node_modules/
