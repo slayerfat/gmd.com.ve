@@ -48,7 +48,7 @@
       <div class="col-sm-6 col-md-4">
         <div class="media services-wrap wow fadeInDown">
           <div class="pull-left">
-            <img class="img-responsive" src="images/services/services4.png">
+            <img class="img-responsive" src="images/services/services4.png" style="min-width: 81px;">
           </div>
           <div class="media-body">
             <h3 class="media-heading">Xyz</h3>

@@ -1,13 +1,11 @@
+'use strict';
+
 require('./bootstrap');
 
 jQuery(function ($) {
-    'use strict';
-
     //#main-slider
-    $(function () {
-        $('#main-slider.carousel').carousel({
-            interval: 8000
-        });
+    $('#main-slider').carousel({
+        interval: 8000
     });
 
     // accordion

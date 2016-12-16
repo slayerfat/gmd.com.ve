@@ -13,7 +13,7 @@ const elixir = require('laravel-elixir');
 
 elixir(function (mix) {
     mix.styles([
-        './node_modules/bootstrap/dist/css/bootstrap.min.css',
+        './node_modules/components-bootstrap/css/bootstrap.min.css',
         './node_modules/font-awesome/css/font-awesome.css',
         './node_modules/animate.css/animate.css',
         'main.css',
